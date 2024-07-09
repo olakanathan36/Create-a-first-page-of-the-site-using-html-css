@@ -1,0 +1,24 @@
+.main{
+    text-align: center;
+    border: 1px solid;
+    padding: 20px;
+    margin-top: 200px;
+    
+    background-image:  linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    box-shadow: inset;
+    
+}
+div p{
+    font-size: larger;
+}
+i{
+    font-size: xx-large;
+}
+body{
+    display: flex;
+    justify-content: center;
+   
+    background-size: cover;
+    background-size: ;
+    
+}
